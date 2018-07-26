@@ -1,0 +1,11 @@
+<!-- <configuration> -->
+
+<connectionStrings> 
+<<<<<<< HEAD
+    <add name="MTV2_DB" connectionString="Server=uscac-ds01.informa.aws,1435;Database=MTv2_FOS;User ID=mt-fos-dev;Password=mt-fos-dev"  />
+=======
+    <add name="MTV2_DB" connectionString="Server=uscac-ds01.informa.aws,1435;Database=MTv2_FOS;User ID=lezhneva;Password=MT$785634defr"  />
+>>>>>>> master
+ </connectionStrings>
+
+<!-- </configuration> -->
